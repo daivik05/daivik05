@@ -8,11 +8,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daivik05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=daivik05&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-<img src="https://raw.githubusercontent.com/daivik05/daivik05/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <a href="https://www.instagram.com/astropashz?igsh=MWxsc3kyZzRlMjVnMg==" target="_blank">
@@ -27,10 +26,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="241" src="https://i.pinimg.com/originals/29/89/b2/2989b2c3381723c568c0201e32c8c030.gif"  />
-</div>
 
 ###
 
@@ -53,3 +48,11 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.cloudskillsboost.google/public_profiles/9fd03224-8f0c-4520-a0d8-d577160a9c57/badges/8372492" target="_blank"> <img src="https://github.com/daivik05/daivik05/blob/main/assests/GDVGByqhjlVp6OOvMLuEfCXvSAFBh33BQ2IvLZFaO6A%3D.png" width="20%" height="20%" border="10" hspace="20"/> </a>
   <a href="https://www.cloudskillsboost.google/public_profiles/9fd03224-8f0c-4520-a0d8-d577160a9c57/badges/8472584" target="_blank"> <img src="https://github.com/daivik05/daivik05/blob/main/assests/RshPhz3CtNIya_8v2wDfRsaWLitOB3yRV73Oqq1iAtQ%3D.png" width="20%" height="20%" border="10" hspace="50"/> </a>
 </p>
+
+
+
+
+
+
+
+
