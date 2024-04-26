@@ -57,10 +57,13 @@ You can click the Preview link to take a look at your changes.
   
    <h2 align="center"><b>Google Cloud Skills Badges</b></h2>
 </h3>
-<p align="center">
- <a href="https://www.cloudskillsboost.google/public_profiles/9fd03224-8f0c-4520-a0d8-d577160a9c57/badges/8472584" target="_blank"> <img src="https://github.com/daivik05/daivik05/blob/main/assests/Gp3%2B11sluPKWIiKPCZnEbCGHU447WzNu7imPoaQiWYc%3D.png" width="20%" height="20%" border="10" hspace="20"/> </a>
-  <a href="https://www.cloudskillsboost.google/public_profiles/9fd03224-8f0c-4520-a0d8-d577160a9c57/badges/8372492" target="_blank"> <img src="https://github.com/daivik05/daivik05/blob/main/assests/GDVGByqhjlVp6OOvMLuEfCXvSAFBh33BQ2IvLZFaO6A%3D.png" width="20%" height="20%" border="10" hspace="20"/> </a>
-  <a href="https://www.cloudskillsboost.google/public_profiles/9fd03224-8f0c-4520-a0d8-d577160a9c57/badges/8472584" target="_blank"> <img src="https://github.com/daivik05/daivik05/blob/main/assests/RshPhz3CtNIya_8v2wDfRsaWLitOB3yRV73Oqq1iAtQ%3D.png" width="20%" height="20%" border="10" hspace="50"/> </a>
+<p align="center"> 
+ <a href="https://www.cloudskillsboost.google/public_profiles/9fd03224-8f0c-4520-a0d8-d577160a9c57/badges/8688296" target="_blank"> <img src="assets/arcade/Ii57_Q2vjXWK1mlazRWJI09Q++FvSEbH+DkI9wmzVJs=.png" width="10%" height="10%" border="10" hspace="50"/> </a>
+ <a href="https://www.cloudskillsboost.google/public_profiles/9fd03224-8f0c-4520-a0d8-d577160a9c57/badges/8756128" target="_blank"> <img src="assets/arcade/SBRoWqp3WocfiSze7uZCrztoZ4fRQSOoZikjtL+P0yY=.png" width="10%" height="10%" border="10" hspace="20"/> </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/9fd03224-8f0c-4520-a0d8-d577160a9c57/badges/8372492" target="_blank"> <img src="assets/skills/GDVGByqhjlVp6OOvMLuEfCXvSAFBh33BQ2IvLZFaO6A=.png" width="10%" height="10%" border="10" hspace="20"/> </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/9fd03224-8f0c-4520-a0d8-d577160a9c57/badges/8762809" target="_blank"> <img src="assets/arcade/VIPYbrUiynSFkesVAQKHniGW5LZ0zGEzGruO6icgf1k=.png" width="10%" height="10%" border="10" hspace="50"/> </a>
+ <a href="https://www.cloudskillsboost.google/public_profiles/9fd03224-8f0c-4520-a0d8-d577160a9c57/badges/8742111" target="_blank"> <img src="assets/arcade/RF0vjMxwLUVxx5sNkTtCUzYx72kpKRsdnaEGQ05Ioi8=.png" width="10%" height="10%" border="10" hspace="50"/> </a>
+ <a href="https://www.cloudskillsboost.google/public_profiles/9fd03224-8f0c-4520-a0d8-d577160a9c57/badges/8762382" target="_blank"> <img src="assets/arcade/B1Y43FIXcZoBldVQ6BOeeNOiNa51Au8+0uaelglwxME=.png" width="10%" height="10%" border="10" hspace="50"/> </a>
 </p>
 
 
