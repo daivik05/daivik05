@@ -69,7 +69,9 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 
 
