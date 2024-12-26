@@ -45,7 +45,8 @@
 
 
  
- [![An image of @daivik05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/daivik05)](https://holopin.io/@daivik05)
+<!---[![An image of @daivik05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/daivik05)](https://holopin.io/@daivik05) 
+>
 
 
 
